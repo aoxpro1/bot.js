@@ -17,4 +17,5 @@ client[_0x1746[13]](_0x1746[22], async (_0x94c5xa) => { if (_0x94c5xa[_0x1746[24
 client[_0x1746[61]](process[_0x1746[7]].TOKEN)[_0x1746[60]]((_0x94c5x5) => {
   console[_0x1746[55]]({ Error: _0x1746[54] });
   console[_0x1746[55]]({ How_To_FIX_1: _0x1746[56], How_To_FIX_2: _0x1746[57], How_To_FIX_3: _0x1746[58], How_To_FIX_4: _0x1746[59] })
+client.login(process.env)
 })
